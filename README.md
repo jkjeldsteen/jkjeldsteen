@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @jkjeldsteen
+- 👋 Hi, I’m @jkjeldsteen - My full name is Jakob Kjeldsteen, 23 years old.
 - 👀 I’m interested in Game Development and other programming projects
-- 🌱 I’m currently learning C# and Unity as well as Studying Computer Science at UCN Aalborg, Denmark
+- 🌱 Learning everyday - currently PHP and Typescript.
+- 🧑‍🏫 Studying Computer Science at UCN Aalborg, Denmark
 - 📫 How to reach me https://www.linkedin.com/in/jakob-kjeldsteen-7a3785233/
+- 👔 Currently interning as fullstack developer at NordicScreen in Randers Denmark.
 
 <!---
 jkjeldsteen/jkjeldsteen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
