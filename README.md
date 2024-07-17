@@ -5,6 +5,9 @@
 - 🧑‍🏫 AP Degree in Computer Science from UCN Aalborg, Denmark.
 - 📫 Reach me: https://www.linkedin.com/in/jakob-kjeldsteen-7a3785233/
 
+Tech Stack
+Languages: C#, Java, Go, Typescript, SQL and more.
+Tools: Docker, MSSQL, Postgresql, MongoDB.
 <!---
 jkjeldsteen/jkjeldsteen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
