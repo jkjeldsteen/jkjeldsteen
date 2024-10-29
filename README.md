@@ -2,6 +2,7 @@
 - 🚀 Currently looking for a job as backend, frontend or full-stack developer
 - 👀 I’m interested in all things gaming. I play games, i develop games and i watch esports (also been a coach)
 - 🖥️ Working on my own website for portfolio use (jkjeldsteen.com)
+- 🎮 Developing indie game "Epoch Raiders", A 2D Top-down roguelite set in different epochs of earth. (jkjeldsteen.com/devlogs)
 - 🌱 Learning everyday.
 - 🧑‍🏫 AP Degree in Computer Science from UCN Aalborg, Denmark.
 - 📫 Reach me: https://www.linkedin.com/in/jakob-kjeldsteen-7a3785233/
